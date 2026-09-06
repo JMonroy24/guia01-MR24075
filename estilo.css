@@ -1,0 +1,27 @@
+#carnet {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #1e1e2f;
+  color: #f0f0f0;
+  border-left: 6px solid #7c3aed;
+  font-family: Arial, sans-serif;
+}
+
+#carnet h2 {
+  margin: 0 0 5px 0;
+  color: #00e5ff;
+  text-align: center;
+  text-shadow:
+    0 0 5px #00e5ff,
+    0 0 10px #00e5ff,
+    0 0 20px #00e5ff,
+    0 0 40px #0077ff,
+    0 0 80px #0077ff;
+}
+
+#carnet p {
+  margin: 5px 0;
+  line-height: 1.5;
+}
