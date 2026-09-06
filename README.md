@@ -1,4 +1,4 @@
-# Programación para Internet GT[#] – 2026
+# Programación para Internet GT02 – 2026
 ## SOLUCION GUIA #1
 Integrantes:
 - Monroy Rodriguez, Melvin José, MR24075
